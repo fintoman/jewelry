@@ -1,0 +1,25 @@
+button {
+  color: black;
+  background-color: aliceblue;
+  cursor: pointer;
+  border-radius: 30px;
+  border-color: black;
+}
+button:hover {
+  color: cadetblue;
+  border-color: black;
+  border-radius: 20px;
+  background-color: transparent;
+}
+ul {
+  list-style-type: none;
+}
+.logo {
+  width: 150px;
+}
+.car {
+  width: 250px;
+}
+.nav1 {
+  text-decoration: none;
+}
